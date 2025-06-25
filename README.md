@@ -27,7 +27,7 @@ A stunning 3D interactive book slider built with React Three Fiber, featuring re
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AliyanJabbar/3D-Book-Slider.git
 cd 3d-book-slider
 ```
 
