@@ -170,6 +170,9 @@ The built files will be in the `dist/` directory, ready for deployment to any st
 
 This project is open source and available for all developers just clone this repo and you are free to use it.
 
+## 👀 Live
+**This project is [live](https://aliyan-3d-book-slider.vercel.app/)**
+
 ## 🙏 Acknowledgments
 
 - Three.js community for excellent 3D web graphics
